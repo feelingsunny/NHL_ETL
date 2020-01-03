@@ -30,7 +30,7 @@ The final tables or collections that will be used in the production database.
 
 ## Project Report
 
-Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+Extract: the original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 Transform: what data cleaning or transformation was required.
 Load: the final database, tables/collections, and why this was chosen.
 
